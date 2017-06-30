@@ -1,0 +1,55 @@
+body{
+	background: url("../img/Sports.png");
+}
+#desplegable{
+    background-color: #2196F3 !important;
+}
+.open > a {
+    background-color: #2196F3 !important;
+}
+#sesion{
+}
+#btRegistro{
+    width: 40% !important;
+    font-weight:bold;
+    color:white;
+    background: linear-gradient(#67ae55, #578843);
+    background-color: #69a74e;
+    box-shadow: inset 0 1px 1px #a4e388;
+    border-color: #3b6e22 #3b6e22 #2c5115;
+}
+#imagen1{
+	width: 100%;
+	height: 400px;
+	border-radius: 15px 50px 30px;
+	padding-bottom: 10px;
+
+}
+#imagen{
+	width: 99%;
+	height: 20%;
+	border-radius: 6px;
+}
+.navbar{
+	background-color: #2196F3;
+
+}
+#bartop{
+	color:white;
+}
+.panel-heading{
+	background-color: #2196F3 !important;
+	color: white !important;
+}
+.navbar-brand:link, .navbar-brand:visited,#navbar li a:link,#navbar li a:visited {
+	color:white !important;
+
+}
+.navbar-brand:hover, .navbar-brand:active,#navbar li a:hover,#navbar li a:active {
+	color:red !important;
+
+}
+.jumbotron{
+    background-color: #2196F3 !important;
+    color: white !important;
+}
